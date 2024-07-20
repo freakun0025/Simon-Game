@@ -20,6 +20,7 @@ To play the game you can go to [Simon-Game](https://simon-game0025.netlify.app/)
 - `sounds`: A directory containing the sound files for the game.
 
 ## JavaScript Code Explanation
+A library called jQuery has been used so as to have compact code writing
 
 ### Variables
 
